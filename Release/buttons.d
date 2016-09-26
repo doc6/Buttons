@@ -1,0 +1,1 @@
+buttons.d: ../buttons.c
